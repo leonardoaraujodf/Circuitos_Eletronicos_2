@@ -1,0 +1,44 @@
+1. Estetoscópio Eletrônico
+
+Link de projetos:
+
+http://www.newtoncbraga.com.br/index.php/eletronica/57-artigos-e-projetos/13036-estetoscopio-eletronico-art3162
+
+http://www.circuit-finder.com/categories/audio/audio-preamplifier/107/electronic-stethoscope
+
+2. Proteção de fontes de alimentação
+
+Este circuito é de grande utilidade para o experimentador que pode ter sua fonte de alimentação danificada em caso de curto-circuito no aparelho que está recebendo sua energia.
+
+O que temos é um relé que é ajustado para abrir seus contatos em caso de queda excessiva de tensão, desligando assim a fonte. Como a queda excessiva de tensão ocorre em caso de curto-circuitos ou de uma corrente de carga maior do que a fonte pode fornecer, temos a proteção desejada.
+
+3. Fonte Chaveada
+
+Uma fonte chaveada ou comutada (em inglês switched-mode power supply (SMPS)), é uma unidade de fonte de alimentação eletrônica que incorpora um regulador chaveado, ou seja, um circuito controlador interno que chaveia (comuta) a corrente, ligando e desligando rapidamente, de forma a manter uma tensão de saída estabilizada. Reguladores chaveados são utilizados para substituição de reguladores lineares mais simples, quando uma eficiência maior, menor tamanho e maior leveza são requiridos. Eles, entretanto, são mais complexos e mais caros, e o chaveamento da corrente pode causar problemas de ruído (tanto eletromagnético quanto sonoro) se não forem cuidadosamente suprimidos, e projetos simples podem ter baixo fator de potência.
+
+Fonte: Wikipedia
+
+
+4. Alarme para Portas e Janelas
+
+Este circuito faz o disparo de uma sirene, de um oscilador de áudio ou mesmo de um circuito de maior potência, quando um fio fino invisível é interrompido inadvertidamente pelo ladrão ou intruso.
+
+
+5. Conversor de ondas senoidas para quadradas
+
+
+
+6. Oxímetro de Pulso
+
+Em suma mede a taxa de oxigênio no sangue em um determinado ponto do corpo. 
+
+7. EMG (acho que é muito difícil de fazer)
+
+
+
+8. Gerenciador de Baterias
+
+
+
+
+
